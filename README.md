@@ -21,6 +21,8 @@ The dashboard allows users to explore trends, compare countries, and understand 
 
 ---
 
+![image](https://github.com/Itsyashasvibhati/Covid19-Data./blob/8499b90a13dcbd45657e2414592a20d882a9f3a6/Screenshot%202026-03-28%20003415.png)
+
 ## 🛠️ Tech Stack
 
 * **Language:** Python
