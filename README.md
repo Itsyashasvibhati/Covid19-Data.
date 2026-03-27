@@ -6,8 +6,6 @@ This project is an **interactive COVID-19 Data Science Dashboard** built using P
 
 The dashboard allows users to explore trends, compare countries, and understand the spread of COVID-19 using multiple graph types.
 
----
-
 ## 🚀 Features
 
 * 📊 Interactive Dashboard UI
@@ -18,8 +16,6 @@ The dashboard allows users to explore trends, compare countries, and understand 
 * 🔍 Scatter Plot (Cases vs Deaths)
 * 📊 Area Chart (Growth Analysis)
 * 🗺️ Global Map Visualization
-
----
 
 ![image](https://github.com/Itsyashasvibhati/Covid19-Data./blob/8499b90a13dcbd45657e2414592a20d882a9f3a6/Screenshot%202026-03-28%20003415.png)
 
