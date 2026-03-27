@@ -35,6 +35,7 @@ The dashboard allows users to explore trends, compare countries, and understand 
 Framework used: Streamlit
 
 ---
+![image](https://github.com/Itsyashasvibhati/Covid19-Data./blob/796500746f15c2f1935a3257ddcf5664aa4e2628/Screenshot%202026-03-28%20003442.png)
 
 ## 📁 Project Structure
 
