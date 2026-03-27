@@ -81,7 +81,7 @@ python -m streamlit run app.py
 ```
 http://localhost:8501
 ```
-
+![image](https://github.com/Itsyashasvibhati/Covid19-Data./blob/68cbbdb26021004d2d75bc4d01450e84ee1f6373/Screenshot%202026-03-28%20003500.png)
 ---
 
 ## 📊 Dataset Description
